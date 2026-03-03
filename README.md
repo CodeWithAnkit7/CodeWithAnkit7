@@ -1,77 +1,111 @@
-<h1 align="center">Hi 👋, I'm Ankit Kumar Sharma</h1>
-<h3 align="center">A Passionate Java Full Stack Developer from India</h3>
+<!-- ===================== HEADER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0f2027&height=220&section=header&text=Ankit%20Kumar%20Sharma&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+
+<!-- ===================== TYPING ANIMATION ===================== -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=1000&color=00F5FF&center=true&vCenter=true&width=750&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React.js;DSA+Enthusiast;Building+Scalable+Web+Applications;Open+to+Work+%F0%9F%9A%80"/>
+</p>
+
+---
+
+# 👨‍💻 About Me
+
+- 🚀 Passionate Java Full Stack Developer (Fresher)
+- 💻 Strong in Backend Development (Spring Boot)
+- ⚛ Skilled in React.js Frontend
+- 📚 Improving Data Structures & Algorithms Daily
+- 🎯 Career Goal: Software Engineer
+- 🌍 Based in India | Open to Work
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ankit-kumar-sharma07">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Ankit%20Sharma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:ank1372003@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://ankitportfollio.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-FE7F7F?style=for-the-badge&logo=netlify&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-Live_Website-FF6F61?style=for-the-badge&logo=netlify&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### 🔭 I’m currently working on
-- [City Hospital Management System](https://ankitcityhospital.netlify.app) – Web application built using **Java, Spring Boot, React.js, MySQL**.
+# 🛠 Tech Stack
 
-### 🌱 I’m currently learning
-- Advanced **Java Full Stack Development**
-- **Data Structures & Algorithms**
-- **Spring Boot, Hibernate, REST APIs, React.js**
-
----
-
-### 💻 Skills
-
-**Frontend:**  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-**Backend:**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Tools & Platforms:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-### 🚀 Projects
-
-| Project | Description | Tech Stack | Link |
-|---------|-------------|------------|------|
-| City Hospital Management System | Web app for hospital management | Java, Spring Boot, React.js, MySQL | [Live Demo](https://ankitcityhospital.netlify.app) |
-| Portfolio Website | Personal portfolio showcasing projects & skills | HTML, CSS, JavaScript, Bootstrap | [Live Demo](https://ankitportfollio.netlify.app) |
-| E-Commerce App | Online shopping web application | Java, Spring Boot, React.js, MySQL | [GitHub](#) |
-
----
-
-### 📊 GitHub Stats
-
-### 📊 GitHub Stats
-
+### 💻 Frontend
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ankitsharma07&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitsharma07&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap&perline=5" />
+</p>
+
+### ⚙ Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql&perline=3" />
+</p>
+
+### 🔧 Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&perline=4" />
 </p>
 
 ---
 
-### ⚡ Fun Fact
-I enjoy working on **both frontend and backend equally**, and I love turning ideas into functional web applications. 💻🚀
+# 🚀 Featured Project
+
+## 🏥 City Hospital Management System
+
+✔ Role-Based Authentication  
+✔ REST API Integration  
+✔ CRUD Operations  
+✔ Responsive UI  
+
+🔗 Live Demo: https://ankitcityhospital.netlify.app  
+
+Tech Used: Java | Spring Boot | React.js | MySQL  
 
 ---
 
-### 👋 Visitor Badge
+# 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ankitsharma07&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ankitsharma07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitsharma07&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ankitsharma07&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 💼 Career Objective
+
+🎯 Seeking Java Full Stack Developer (Fresher) Role  
+🎯 Open to Internship / Entry-Level Opportunities  
+🎯 Ready to contribute and grow in a tech-driven organization  
+
+---
+
+<!-- ===================== FOOTER ===================== -->
+
+<h3 align="center">✨ Thank You for Visiting My Profile! ✨</h3>
+
+<p align="center">
+  If you like my work, feel free to ⭐ my repositories <br>
+  and connect with me on LinkedIn 🤝 <br><br>
+  🚀 Let’s build something amazing together!
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:243B55,100:141E30&height=120&section=footer"/>
 </p>
