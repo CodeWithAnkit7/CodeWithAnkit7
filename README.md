@@ -65,7 +65,7 @@
 
 ### 🗄 Database
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+<img src="https://skillicons.dev/icons?i=mysql"/>
 </p>
 
 ### 🔧 Tools & Platforms
